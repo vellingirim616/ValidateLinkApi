@@ -5,3 +5,5 @@
 /LinksApi/.vs/LinksApi
 /LinksApi/LinksApi/bin/Debug/net8.0
 /LinksApi/LinksApi/obj
+/LinksApi/LinksApi.Tests/bin/Debug/net9.0
+/LinksApi/LinksApi.Tests/obj
